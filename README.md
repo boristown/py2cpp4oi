@@ -17,3 +17,6 @@
 > translate.py in.py out.cpp
 
 3. 翻译结果自动保存在`out.cpp`中。
+
+## 转换度
+
